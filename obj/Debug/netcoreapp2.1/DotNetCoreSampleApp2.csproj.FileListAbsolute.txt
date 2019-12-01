@@ -29,3 +29,4 @@ C:\DotNetCoreSampleApp\DotNetCoreSampleApp2\DotNetCoreSampleApp2\obj\Debug\netco
 C:\DotNetCoreSampleApp\DotNetCoreSampleApp2\DotNetCoreSampleApp2\obj\Debug\netcoreapp2.1\DotNetCoreSampleApp2.dll
 C:\DotNetCoreSampleApp\DotNetCoreSampleApp2\DotNetCoreSampleApp2\obj\Debug\netcoreapp2.1\DotNetCoreSampleApp2.pdb
 C:\DotNetCoreSampleApp\DotNetCoreSampleApp2\DotNetCoreSampleApp2\obj\Debug\netcoreapp2.1\DotNetCoreSampleApp2.csproj.CopyComplete
+C:\DotNetCoreSampleApp\DotNetCoreSampleApp2\DotNetCoreSampleApp2\obj\Debug\netcoreapp2.1\DotNetCoreSampleApp2.csprojAssemblyReference.cache
